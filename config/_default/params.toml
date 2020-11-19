@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jeanne.commault@sciencespo.fr"
+email = ""
 phone = "+33 (0)1 45 49 76 38"
 
 # Address
