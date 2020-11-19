@@ -21,10 +21,10 @@ bio: My research is in macroeconomics with a focus on household consumption and 
 #- Computational Linguistics
 #- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Economics
-    institution: Ecole Polytechnique and CREST
+#education:
+#  courses:
+#  - course: PhD in Economics
+#    institution: Ecole Polytechnique and CREST
 #    year: 2012
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
@@ -73,4 +73,4 @@ I am an Assistant Professor in the Department of Economics at Sciences Po. I rec
 
 My research is in macroeconomics with a focus on household consumption and saving behavior.
 
-Contact: jeanne.commault@gmail.com
+Contact: jeanne.commault@sciencespo.fr
