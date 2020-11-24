@@ -10,8 +10,13 @@
 
 [[main]]
   name = "Research"
-  url = "#research"
+  url = "research/"
   weight = 30
+
+#[[main]]
+#  name = "My new page"  # A link title for your page.
+#  url = "example/"  # The URL of your page.
+#  weight = 50
 
 #[[main]]
 #  name = "Projects"
