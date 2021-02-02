@@ -22,6 +22,8 @@ Abstract: Studies based on natural experiments find that consumption responds st
 
 _Accepted at AEJ:Macro_
 
+{{% staticref "media/online_app_jmp_commault.pdf" %}}Online Appendix{{% /staticref %}}
+
 {{% staticref "media/BBCD.pdf" %}}Why Does Consumption Fluctuate in Old Age and How Should the Government Insure It?{{% /staticref %}}
 
 with Richard Blundell, Margherita Borella & Mariacristina De Nardi
