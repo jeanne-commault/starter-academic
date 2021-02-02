@@ -20,9 +20,9 @@ header:
 
 Abstract: Studies based on natural experiments find that consumption responds strongly and significantly to a transitory variation in income, while semi-structural estimations find no pass-through of transitory shocks to consumption. I develop a more robust semi-structural estimator that relaxes the assumption that log-consumption is a random walk. The robust pass-through estimate is significant and large, implying a yearly MPC of 0.32, close to the natural experiment findings. The robust estimator performs well in numerical simulations of a life-cycle model while non-robust estimators do not. The difference between the two in the simulations is similar to their difference in the survey data.
 
-_Accepted at AEJ:Macro_
+{{% staticref "media/online_app_jmp_commault.pdf" %}}_Online Appendix_{{% /staticref %}}
 
-{{% staticref "media/online_app_jmp_commault.pdf" %}}Online Appendix{{% /staticref %}}
+_Accepted at AEJ:Macro_
 
 {{% staticref "media/BBCD.pdf" %}}Why Does Consumption Fluctuate in Old Age and How Should the Government Insure It?{{% /staticref %}}
 
