@@ -25,7 +25,9 @@ Abstract: Studies based on natural experiments find that consumption responds st
 
 {{% staticref "media/online_app_jmp_commault.pdf" %}}Online Appendix{{% /staticref %}}
 
-_Accepted at AEJ:Macro_
+_Forthcoming at AEJ:Macro_
+
+Formerly circulated as "How Does Consumption Respond to a Transitory Income Shock? Reconciling Natural Experiments and Structural Estimations"
 
 
 <li> {{% staticref "media/BBCD.pdf" %}}Why Does Consumption Fluctuate in Old Age and How Should the Government Insure It?{{% /staticref %}} </li>
