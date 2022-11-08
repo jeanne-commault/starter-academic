@@ -25,7 +25,7 @@ Abstract: Studies based on natural experiments find that consumption responds st
 
 {{% staticref "media/online_app_jmp_commault.pdf" %}}Online Appendix{{% /staticref %}}
 
-_Forthcoming at AEJ:Macro_
+_AEJ:Macro_
 
 Formerly circulated as "How Does Consumption Respond to a Transitory Income Shock? Reconciling Natural Experiments and Structural Estimations"
 
@@ -36,3 +36,14 @@ _with Richard Blundell, Margherita Borella & Mariacristina De Nardi_
 
 Abstract: In old age, consumption can fluctuate because of shocks to available resources and because health shocks affect utility from consumption. We find that even temporary drops in income and health are associated with drops in consumption and most of the effect of temporary drops in health on consumption stems from the reduction in the marginal utility from consumption that they generate. More precisely, after a health shock, richer households adjust their consumption of luxury goods because their utility of consuming them changes. Poorer households, instead, adjust both their necessary and luxury consumption because of changing resources and utility from consumption.
 </ul>
+
+<ul>
+<li> {{% staticref "media/CrossMPCs.pdf" %}}How Do Persistent Earnings Affect the Response of Consumption to Transitory Shocks?{{% /staticref %}} </li>
+<br>
+
+Abstract: I show theoretically and empirically that, everything else being equal, people with higher persistent earnings respond more to transitory shocks. Theoretically, people with the same wealth and transitory earnings but higher persistent earnings than others consume more and finance a larger share of their consumption out of their uncertain expected future earnings. Their precautionary motive is thus stronger and their consumption more responsive to transitory shocks. Empirically, in US survey data, an increase in persistent earnings by one standard deviation raises people's consumption response to transitory shocks by 6\%-8\%. Numerical simulations of a life-cycle model can reproduce these empirical results.
+</ul>
+
+{{% staticref "media/ProofLemma_i.pdf" %}}Proof of Lemma (i) with time-varying demographics, discount factors, and interest rates {{% /staticref %}}
+
+{{% staticref "media/ProofLemma_vi.pdf" %}}Proof of Lemma (iv) including the cases of strictly increasing and strictly decreasing relative prudence {{% /staticref %}}
