@@ -44,6 +44,8 @@ Abstract: In old age, consumption can fluctuate because of shocks to available r
 Abstract: I show theoretically and empirically that, everything else being equal, people with higher persistent earnings respond more to transitory shocks. Theoretically, people with the same wealth and transitory earnings but higher persistent earnings than others consume more and finance a larger share of their consumption out of their uncertain expected future earnings. Their precautionary motive is thus stronger and their consumption more responsive to transitory shocks. Empirically, in US survey data, an increase in persistent earnings by one standard deviation raises people's consumption response to transitory shocks by 6\%-8\%. Numerical simulations of a life-cycle model can reproduce these empirical results.
 </ul>
 
+<ul>
 {{% staticref "media/ProofLemma_i.pdf" %}}Proof of Lemma (i) with time-varying demographics, discount factors, and interest rates {{% /staticref %}}
 
 {{% staticref "media/ProofLemma_vi.pdf" %}}Proof of Lemma (iv) including the cases of strictly increasing and strictly decreasing relative prudence {{% /staticref %}}
+<br>
