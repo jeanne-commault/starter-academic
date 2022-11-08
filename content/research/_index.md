@@ -45,7 +45,9 @@ Abstract: I show theoretically and empirically that, everything else being equal
 </ul>
 
 <ul>
-{{% staticref "media/ProofLemma_i.pdf" %}}Proof of Lemma (i) with time-varying demographics, discount factors, and interest rates {{% /staticref %}}
+{{% staticref "media/ProofLemma_i.pdf" %}}Lemma (i) with time-varying demographics, discount factors, and interest rates {{% /staticref %}}
+</ul>
 
-{{% staticref "media/ProofLemma_vi.pdf" %}}Proof of Lemma (iv) including the cases of strictly increasing and strictly decreasing relative prudence {{% /staticref %}}
+<ul>
+{{% staticref "media/ProofLemma_vi.pdf" %}}Lemma (iv) with the cases of strictly increasing and decreasing relative prudence {{% /staticref %}}
 <br>
