@@ -13,26 +13,6 @@
   url = "research/"
   weight = 30
 
-#[[main]]
-#  name = "My new"  # A link title for your page.
-#  url = "example/"  # The URL of your page.
-#  weight = 50
-
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
-
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
-
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 40
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
  [[main]]
