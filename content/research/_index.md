@@ -37,6 +37,8 @@ Abstract: Studies based on natural experiments find that consumption responds st
 
 _with Richard Blundell, Margherita Borella & Mariacristina De Nardi_
 
+_R&R at the American Economic Review_
+
 Abstract: In old age, consumption can fluctuate because of shocks to available resources and because health shocks affect utility from consumption. We find that even temporary drops in income and health are associated with drops in consumption and most of the effect of temporary drops in health on consumption stems from the reduction in the marginal utility from consumption that they generate. More precisely, after a health shock, richer households adjust their consumption of luxury goods because their utility of consuming them changes. Poorer households, instead, adjust both their necessary and luxury consumption because of changing resources and utility from consumption.
 </ul>
 
