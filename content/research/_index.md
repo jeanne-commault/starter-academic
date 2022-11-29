@@ -44,11 +44,8 @@ Abstract: In old age, consumption can fluctuate because of shocks to available r
 
 <ul>
 <li> {{% staticref "media/HowDoEarnings_main.pdf" %}}How Do Persistent Earnings Affect the Response of Consumption to Transitory Shocks?{{% /staticref %}} </li>
-<br>
 
-<ul>
-<li> {{% staticref "https://www.sciencespo.fr/department-economics/sites/sciencespo.fr.department-economics/files/2022_commault_how_do_persistent_earnings_affect_the_response_of_consumption_to_transitory_shocks_0.pdf" %}}Earlier Sciences Po Discussion Paper version{{% /staticref %}} </li>
-<br>
+{{% staticref "https://www.sciencespo.fr/department-economics/sites/sciencespo.fr.department-economics/files/2022_commault_how_do_persistent_earnings_affect_the_response_of_consumption_to_transitory_shocks_0.pdf" %}} Sciences Po Discussion Paper version{{% /staticref %}} 
 
 Abstract: I show theoretically and empirically that, everything else being equal, people with higher persistent earnings respond more to transitory shocks. Theoretically, people with the same wealth and transitory earnings but higher persistent earnings than others consume more and finance a larger share of their consumption out of their uncertain expected future earnings. Their precautionary motive is thus stronger and their consumption more responsive to transitory shocks. Empirically, in US survey data, an increase in persistent earnings by one standard deviation raises people's consumption response to transitory shocks by 6\%-8\%. Numerical simulations of a life-cycle model can reproduce these empirical results.
 <br>
