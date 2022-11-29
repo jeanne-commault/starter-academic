@@ -20,7 +20,7 @@ header:
   <li> {{% staticref "media/jmp_commault.pdf" %}}Does Consumption Respond to Transitory Shocks? Reconciling Natural Experiments and Semistructural Methods{{% /staticref %}}</li> 
 <br>
 
-_American Economic Journal: Macroeconomics_ April 2022 : https://www.aeaweb.org/articles?id=10.1257/mac.20190296
+_American Economic Journal: Macroeconomics_ April 2022: https://www.aeaweb.org/articles?id=10.1257/mac.20190296
 <br>
 
 Abstract: Studies based on natural experiments find that consumption responds strongly and significantly to a transitory variation in income, while semistructural estimations find no pass-through of transitory shocks to consumption. I develop a more robust semistructural estimator that relaxes the assumption that log consumption is a random walk. The robust pass-through estimate is significant and large, implying a yearly marginal propensity to consume of 0.32, close to the natural experiment findings. The robust estimator performs well in numerical simulations of a life cycle model, while nonrobust estimators do not. The difference between the two in the simulations is similar to their difference in the survey data.
@@ -43,7 +43,7 @@ Abstract: In old age, consumption can fluctuate because of shocks to available r
 </ul>
 
 <ul>
-<li> {{% staticref "media/HowDoEarnings-manuscript.pdf" %}}How Do Persistent Earnings Affect the Response of Consumption to Transitory Shocks?{{% /staticref %}} </li>
+<li> {{% staticref "media/HowDoEarnings_main_.pdf" %}}How Do Persistent Earnings Affect the Response of Consumption to Transitory Shocks?{{% /staticref %}} </li>
 <br>
 
 Abstract: I show theoretically and empirically that, everything else being equal, people with higher persistent earnings respond more to transitory shocks. Theoretically, people with the same wealth and transitory earnings but higher persistent earnings than others consume more and finance a larger share of their consumption out of their uncertain expected future earnings. Their precautionary motive is thus stronger and their consumption more responsive to transitory shocks. Empirically, in US survey data, an increase in persistent earnings by one standard deviation raises people's consumption response to transitory shocks by 6\%-8\%. Numerical simulations of a life-cycle model can reproduce these empirical results.
