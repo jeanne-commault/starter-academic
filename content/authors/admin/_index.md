@@ -73,6 +73,4 @@ I am an Assistant Professor in the Department of Economics at Sciences Po. I rec
 
 My research is in macroeconomics with a focus on household consumption and saving behavior.
 
-I am on sabbatical ! I am visiting Princeton from September 2022 to December 2022, the EIEF in January 2023, the Atlanta Fed from February 2023 to March 2023, and the OIGI at the Minnesota Fed from April to May 2023.
-
 Contact: jeanne.commault@sciencespo.fr
