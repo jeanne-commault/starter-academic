@@ -30,9 +30,9 @@ Abstract: Studies based on natural experiments find that consumption responds st
 <br>
 
 <ul>
-<li> {{% staticref "media/BBCD.pdf" %}}Why Does Consumption Fluctuate in Old Age and How Should the Government Insure It?{{% /staticref %}} </li>
+<li> {{% staticref "media/BBCD.pdf" %}}Old Age Risks, Consumption, and Insurance{{% /staticref %}} </li>
 
-_with Richard Blundell, Margherita Borella & Mariacristina De Nardi_
+_with Richard Blundell, Margherita Borella & Mariacristina De Nardi_ https://www.nber.org/system/files/working_papers/w27348/w27348.pdf
 
 _Conditionally accepted at the American Economic Review_
 
