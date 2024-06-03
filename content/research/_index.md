@@ -37,7 +37,6 @@ _with Richard Blundell, Margherita Borella & Mariacristina De Nardi_
 _American Economic Review_ February 2024: https://www.aeaweb.org/articles?id=10.1257/aer.20220555
 <br>
 
-
 Abstract: In the United States, after age 65, households face income and health risks, and a large fraction of these risks are transitory. While consumption significantly responds to transitory income shocks, out-of-pocket medical expenses do not. In contrast, both consumption and out-of-pocket medical expenses respond to transitory health shocks. Thus, most US elderly keep their out-of-pocket medical expenses close to a satiation point that varies with health. Consumption responds to health shocks mostly because adverse health shocks reduce the marginal utility of consumption. The effect of health on marginal utility changes the optimal transfers due to health shocks.
 </ul>
 
