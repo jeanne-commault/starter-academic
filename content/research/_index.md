@@ -32,10 +32,12 @@ Abstract: Studies based on natural experiments find that consumption responds st
 <ul>
 <li> {{% staticref "media/BBCD.pdf" %}}Old Age Risks, Consumption, and Insurance{{% /staticref %}} </li>
 
-_with Richard Blundell, Margherita Borella & Mariacristina De Nardi_ https://www.nber.org/system/files/working_papers/w27348/w27348.pdf
+_with Richard Blundell, Margherita Borella & Mariacristina De Nardi_
 
-_Conditionally accepted at the American Economic Review_
+_American Economic Review_ February 2024: https://www.aeaweb.org/articles?id=10.1257/aer.20220555
+<br>
 
-Abstract: In old age, consumption can fluctuate because of shocks to available resources and because health shocks affect utility from consumption. We find that even temporary drops in income and health are associated with drops in consumption and most of the effect of temporary drops in health on consumption stems from the reduction in the marginal utility from consumption that they generate. More precisely, after a health shock, richer households adjust their consumption of luxury goods because their utility of consuming them changes. Poorer households, instead, adjust both their necessary and luxury consumption because of changing resources and utility from consumption.
+
+Abstract: In the United States, after age 65, households face income and health risks, and a large fraction of these risks are transitory. While consumption significantly responds to transitory income shocks, out-of-pocket medical expenses do not. In contrast, both consumption and out-of-pocket medical expenses respond to transitory health shocks. Thus, most US elderly keep their out-of-pocket medical expenses close to a satiation point that varies with health. Consumption responds to health shocks mostly because adverse health shocks reduce the marginal utility of consumption. The effect of health on marginal utility changes the optimal transfers due to health shocks.
 </ul>
 
