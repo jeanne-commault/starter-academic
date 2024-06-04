@@ -40,3 +40,15 @@ _American Economic Review_ February 2024: https://www.aeaweb.org/articles?id=10.
 Abstract: In the United States, after age 65, households face income and health risks, and a large fraction of these risks are transitory. While consumption significantly responds to transitory income shocks, out-of-pocket medical expenses do not. In contrast, both consumption and out-of-pocket medical expenses respond to transitory health shocks. Thus, most US elderly keep their out-of-pocket medical expenses close to a satiation point that varies with health. Consumption responds to health shocks mostly because adverse health shocks reduce the marginal utility of consumption. The effect of health on marginal utility changes the optimal transfers due to health shocks.
 </ul>
 
+## Working Papers
+<br>
+
+<ul>
+<li> {{% staticref "media/Concavity.pdf" %}}On the Concavity of Consumption in the Permanent
+Component of Earnings
+{{% /staticref %}} </li>
+
+<br>
+
+Abstract: The extent to which people consume and save out of their resources matters to understand wealth accumulation. The result that consumption is concave in accumulated wealth has been extremely influential. However, the reason for the concavity relates to the fact that accumulated wealth is safe and reduces precautionary saving. The same result thus might thus not apply to risky human capital, which represents a large share of total expected resources. In this paper, I prove that consumption is also concave in the permanent component of earnings, that scales human capital. The mechanism is the opposite that the one behind the concavity in wealth: at a higher level of permanent earnings, the precautionary saving motive is stronger, and more sensitive to variations in permanent earnings.
+</ul>
