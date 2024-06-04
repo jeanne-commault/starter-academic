@@ -44,6 +44,16 @@ Abstract: In the United States, after age 65, households face income and health 
 <br>
 
 <ul>
+<li> {{% staticref "media/HetMPC.pdf" %}}Heterogeneity in MPC Beyond Liquidity
+Constraints: The Role of Permanent Earnings
+{{% /staticref %}} </li>
+
+<br>
+
+Abstract: The marginal propensity to consume (MPC) is a central object in economics that is key to understand the transmission of shocks. Recent empirical findings challenge the standard view that its distribution is mostly explained by constraints on liquid wealth: (i) some people with substantial liquid wealth have a high MPC; (ii) higher current earnings, which should relax the constraints, do not reduce the MPC. I note that, in the standard consumption model, it is the combination of people’s liquid wealth and the variance of their future earnings that determines their precautionary motive and constraints, thus their MPC. Everything else being equal, a higher permanent component of earnings, means a higher variance of future earnings and a higher MPC. This can explain (i)-(ii). Survey data support a large and positive effect of permanent earnings on the MPC. Numerical simulations can replicate those findings quantitatively in a model with realistic earnings risk.
+</ul>
+
+<ul>
 <li> {{% staticref "media/Concavity.pdf" %}}On the Concavity of Consumption in the Permanent
 Component of Earnings
 {{% /staticref %}} </li>
