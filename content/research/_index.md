@@ -48,7 +48,7 @@ Abstract: In the United States, after age 65, households face income and health 
 Constraints: The Role of Permanent Earnings
 {{% /staticref %}} </li>
 
-_previously circulated as 'How Do Persistent Earnings Affect the Response of Consumption to Transitory Shocks?'_
+previously circulated as _'How Do Persistent Earnings Affect the Response of Consumption to Transitory Shocks?'_
 
 <br>
 
