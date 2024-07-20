@@ -54,7 +54,7 @@ Abstract: The marginal propensity to consume (MPC) is a central object in econom
 </ul>
 
 <ul>
-<li> {{% staticref "media/Concavity.pdf" %}}On the Concavity of Consumption in the Permanent
+<li> On the Concavity of Consumption in the Permanent
 Component of Earnings
 {{% /staticref %}} </li>
 
