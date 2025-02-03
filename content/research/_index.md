@@ -48,17 +48,45 @@ Abstract: In the United States, after age 65, households face income and health 
 Constraints: The Role of Permanent Earnings
 {{% /staticref %}} </li>
 
+_previously circulated as 'How Do Persistent Earnings Affect the Response of Consumption to Transitory Shocks?'_
+
 <br>
 
 Abstract: The marginal propensity to consume (MPC) is a central object in economics that is key to understand the transmission of shocks. Recent empirical findings challenge the standard view that its distribution is mostly explained by constraints on liquid wealth: (i) some people with substantial liquid wealth have a high MPC; (ii) higher current earnings, which should relax the constraints, do not reduce the MPC. I note that, in the standard consumption model, it is the combination of people’s liquid wealth and the variance of their future earnings that determines their precautionary motive and constraints, thus their MPC. Everything else being equal, a higher permanent component of earnings, means a higher variance of future earnings and a higher MPC. This can explain (i)-(ii). Survey data support a large and positive effect of permanent earnings on the MPC. Numerical simulations can replicate those findings quantitatively in a model with realistic earnings risk.
 </ul>
 
 <ul>
-<li> {{% staticref "media/Concavity.pdf" %}}On the Concavity of Consumption in the Permanent
-Component of Earnings
+<li> {{% staticref "media/Exact.pdf" %}}An Exact Analysis of Precautionary Consumption
+Growth
 {{% /staticref %}} </li>
 
 <br>
 
-Abstract: The extent to which people consume and save out of their resources matters to understand wealth accumulation. The result that consumption is concave in accumulated wealth has been extremely influential. However, the reason for the concavity relates to the fact that accumulated wealth is safe and reduces precautionary saving. The same result thus might thus not apply to risky human capital, which represents a large share of total expected resources. In this paper, I prove that consumption is also concave in the permanent component of earnings, that scales human capital. The mechanism is the opposite that the one behind the concavity in wealth: at a higher level of permanent earnings, the precautionary saving motive is stronger, and more sensitive to variations in permanent earnings.
+Abstract: While macro models increasingly incorporate substantial risk, the theoretical knowledge about the effect of uncertainty on consumption growth consists
+of intuitions from the second order log-linearized Euler equation. I show that the
+derivation of the log-linearized Euler equation is flawed in that it does not consist in linearizing an Euler equation but in linearizing an ad-hoc mathematical
+identity. I prove exactly that uncertainty raises consumption growth and makes
+consumption depart from a random walk. I also prove that this precautionary
+consumption growth is decreasing in assets, and in transitory and permanent
+income when income is a transitory-permanent process.
+</ul>
+
+<ul>
+<li> {{% staticref "media/Concavity.pdf" %}}How Does Permanent Income Affect Consumption? Theoretical and Empirical Results on the Concavity of Consumption in Permanent Income
+{{% /staticref %}} </li>
+
+<br>
+
+Abstract: I prove analytically that, in the standard life-cycle model used throughout the macroe-
+conomic literature, consumption is not linear but concave in the permanent income
+component of a standard transitory-income process. The reason for the concavity in
+income is the opposite of that behind the seminal result of concavity in (accumulated)
+wealth, established in Carroll and Kimball (1996). An increase in permanent income
+strengthens the need for precautionary saving, and more so at a high level of permanent
+income: consumption responds less to an increase in permanent income at high levels
+because the need for saving increases more. In contrast, an increase in wealth reduces
+the need for precautionary saving, but less so at a high level of wealth: consumption
+also responds less to an increase in wealth at a high level of wealth but now because the
+need for saving decreases less. I also find empirical evidence suggesting that the results
+holds in US survey data.
 </ul>
