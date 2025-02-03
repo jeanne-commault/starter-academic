@@ -70,7 +70,7 @@ income when income is a transitory-permanent process.
 
 
 <ul>
-<li> {{% staticref "media/Concavity.pdf" %}}How Does Permanent Income Affect Consumption? Theoretical and Empirical Results on the Concavity of Consumption in Permanent Income
+<li> {{% staticref "media/Concavity2.pdf" %}}How Does Permanent Income Affect Consumption? Theoretical and Empirical Results on the Concavity of Consumption in Permanent Income
 {{% /staticref %}} </li>
 
 <br>
