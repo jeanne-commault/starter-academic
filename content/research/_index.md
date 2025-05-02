@@ -55,24 +55,9 @@ Abstract: The marginal propensity to consume (MPC) is a central object in econom
 
 _Sciences Po Discussion Paper_ April 2025: https://sciencespo.hal.science/hal-03870685
 
-<ul>
-<li> {{% staticref "media/Exact.pdf" %}}An Exact Analysis of Precautionary Consumption Growth
-{{% /staticref %}} </li>
-
-<br>
-
-Abstract: While macro models increasingly incorporate substantial risk, the theoretical knowledge about the effect of uncertainty on consumption growth consists
-of intuitions from the second order log-linearized Euler equation. I show that the
-derivation of the log-linearized Euler equation is flawed in that it does not consist in linearizing an Euler equation but in linearizing an ad-hoc mathematical
-identity. I prove exactly that uncertainty raises consumption growth and makes
-consumption depart from a random walk. I also prove that this precautionary
-consumption growth is decreasing in assets, and in transitory and permanent
-income when income is a transitory-permanent process.
-</ul>
-
 
 <ul>
-<li> {{% staticref "media/Concavity2.pdf" %}}How Does Permanent Income Affect Consumption? Theoretical and Empirical Results on the Concavity of Consumption in Permanent Income
+<li> {{% staticref "media/Concavity2.pdf" %}}On the Concavity of Consumption in the Permanent Component of Earnings
 {{% /staticref %}} </li>
 
 <br>
@@ -90,3 +75,19 @@ also responds less to an increase in wealth at a high level of wealth but now be
 need for saving decreases less. I also find empirical evidence suggesting that the results
 holds in US survey data.
 </ul>
+
+<ul>
+<li> {{% staticref "media/Exact.pdf" %}}An Exact Analysis of Precautionary Consumption Growth
+{{% /staticref %}} </li>
+
+<br>
+
+Abstract: While macro models increasingly incorporate substantial risk, the theoretical knowledge about the effect of uncertainty on consumption growth consists
+of intuitions from the second order log-linearized Euler equation. I show that the
+derivation of the log-linearized Euler equation is flawed in that it does not consist in linearizing an Euler equation but in linearizing an ad-hoc mathematical
+identity. I prove exactly that uncertainty raises consumption growth and makes
+consumption depart from a random walk. I also prove that this precautionary
+consumption growth is decreasing in assets, and in transitory and permanent
+income when income is a transitory-permanent process.
+</ul>
+
