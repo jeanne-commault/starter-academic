@@ -57,7 +57,7 @@ _Sciences Po Discussion Paper_ April 2025: https://sciencespo.hal.science/hal-03
 
 
 <ul>
-<li> {{% staticref "media/Concavity2.pdf" %}}On the Concavity of Consumption in the Permanent Component of Earnings
+<li> {{% staticref "media/Concavity2.pdf" %}}Precautionary Saving At the Top: On the Concavity of Consumption in the Permanent Component of Earnings
 {{% /staticref %}} </li>
 
 <br>
